@@ -37,7 +37,7 @@ void execute_echo(char **array_of_args)									// For executing echo
 
 void execute_help()														// For giving details about the shell
 {
-	printf("Sheldon Shell: The shell that sheldom fails\n\tWritten by: M M Abid Naziri\n\tRoll: 34\n");
+	printf("Shelldon Shell: The shell that sheldom fails\n\tWritten by: M M Abid Naziri\n");
 	printf("\tDepartment of Computer Science and Engineering (21st Batch)\n\tUniversity of Dhaka\n\nDate: 5th February, 2017\n\n");
 	printf("Write a command on the console, press enter and it's done\n\n");
 	printf("List of builtin shell functions: \n");
