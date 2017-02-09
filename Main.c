@@ -15,7 +15,7 @@ int main(int argc, char **argv)
 		
 		str = reaad();	
 		
-		if(str==0)
+		if(str[0]==0)
 		{
 			stat=1;
 			continue;
