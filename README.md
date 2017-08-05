@@ -1,5 +1,5 @@
 # Shelldon
-A Shell created as a assignment of the lab course "Operating Systems"
+A Shell created as an assignment of the lab course "Operating Systems"
 
 	Written by: 
   		M M Abid Naziri
